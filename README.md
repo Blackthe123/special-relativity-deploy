@@ -1,10 +1,7 @@
-# React + Vite
+# Special Relativity Simulation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The simulation includes:
+- Length Contraction (Ruler)
+- Time Dilation (Sopwatch)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# special-relativity" 
-"# special-relativity" 
+Users can adjust the slider to change observer velocity and visualise what an observer travelling at high speeds would see frome his inertial frame of reference.
